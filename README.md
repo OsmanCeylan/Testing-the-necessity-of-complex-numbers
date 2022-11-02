@@ -4,5 +4,5 @@ This study is about an experiment that proves that quantum theory has complex nu
 
 There are explanations, references and codes in the .ipnyb file. 
 
-# NOTE: It is not an academic study, it is just out of individual curiosity.
+### NOTE: It is not an academic study, it is just out of individual curiosity.
 
